@@ -9,6 +9,6 @@ const {
 
 //Guest registration end-point
 router.post("/register", createRegistration);
-router.get("/register", getAllRegistration); //verifytoken
+router.get("/register", getAllRegistration); 
 
 module.exports = router;
