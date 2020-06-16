@@ -37,9 +37,9 @@ AIRASIA-TELEPORT CODING CHALLENGE.
    
    {
    
-   "email" : "hmasad09@gmail.com",
-   
-   "password" : "12345"
+	   "email" : "hmasad09@gmail.com",
+
+	   "password" : "12345"
    
    }
    
@@ -54,31 +54,31 @@ AIRASIA-TELEPORT CODING CHALLENGE.
    
    {
    
-   "hotelId": "H-S-09087-32451",
-   
-   "hotelName": "Hotel Sarina",
-   
-   "checkInDate": "12345678909876",
-   
-   "checkOutDate": "",
-   
-   "customerName": "Asad",
-   
-   "customerEmail": "asad@gmail.com",
-   
-   "customerContact": "0138596068",
-   
-   "roomId": "607",
-   
-   "roomName": "Business suite",
-   
-   "numberOfGuest": 2,
-   
-   "totalCost": 1200,
-   
-   "paymentMethod" : "paypal",
-   
-   "account_card":"2345678909876"
+	   "hotelId": "H-S-09087-32451",
+
+	   "hotelName": "Hotel Sarina",
+
+	   "checkInDate": "12345678909876",
+
+	   "checkOutDate": "",
+
+	   "customerName": "Asad",
+
+	   "customerEmail": "asad@gmail.com",
+
+	   "customerContact": "0138596068",
+
+	   "roomId": "607",
+
+	   "roomName": "Business suite",
+
+	   "numberOfGuest": 2,
+
+	   "totalCost": 1200,
+
+	   "paymentMethod" : "paypal",
+
+	   "account_card":"2345678909876"
    
    } 
 
