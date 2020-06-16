@@ -2,9 +2,13 @@ AIRASIA-TELEPORT CODING CHALLENGE.
 
 ## Installation
    git clone https://github.com/asadpstu/airasia.git airasia
+   
    cd airaisa
+   
    npm install
+   
    To Run : npm start  [http://localhost:4000]
+   
    To Test : npm test
    
 ## Endpoint 
