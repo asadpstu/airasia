@@ -1,0 +1,30 @@
+{
+  "name": "airasiateleport",
+  "version": "1.0.0",
+  "description": "Airaisa Teleport Backend Service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "H M Ashaduzzaman Asad",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.8",
+    "config": "^3.2.5",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "helmet": "^3.21.2",
+    "joi": "^14.3.1",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.8.13",
+    "morgan": "^1.9.1",
+    "node-uuid": "^1.4.8"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0",
+    "supertest": "^4.0.2"
+  }
+}

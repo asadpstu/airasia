@@ -1,0 +1,9 @@
+{
+  "appname": "Airasia-Teleport",
+  "database": "airasia",
+  "app_dbuser": "airasia",
+  "app_dbpassword": "airasia12345",
+  "app_salt": 7,
+  "app_jwttoken": "airasia@12345",
+  "app_authentication": true
+}

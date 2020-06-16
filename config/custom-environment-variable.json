@@ -1,0 +1,6 @@
+{
+  "app_dbuser": "user",
+  "app_dbpassword": "password",
+  "app_salt": "saltkey",
+  "app_jwttoken": "airasiajwttoken"
+}
